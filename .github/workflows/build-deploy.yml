@@ -3,7 +3,7 @@ name: React App Github pages deploy
 on:
   push:
     branch:
-      "master"
+      "main"
 permissions:
   contents: write
 jobs:
